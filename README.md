@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Salut 👋
 
 <!--
 **garaa2n/garaa2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
