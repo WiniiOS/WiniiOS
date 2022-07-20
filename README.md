@@ -7,6 +7,7 @@
 - 🔭 Je bosses actuellement avec Flutter / Ionic / ReactNative / Javascript ES7 / React JS  / Angular / PHP 5+ / NodeJS / MySQL &MongoDB
 - 🌱 J'apprends actuellement le développement mobile
 - 👯 Je cherche à collaborer sur une application de carte de crédit virtuelle
+- 👯 J'aimerai aussi bosser sur un projet d'agregateur de solutions de paiement mobile money
 - 🤔  Je recherche des projets & de l'aide pour le graphisme 
 - 💬 Des questions sur le Développement web & mobile ? Sur moi ? Contactez moi par mail ou inbox
 - 📫 Comment me contacter : Whatsapp @ +237 658 682 586 / @email :franckndi5@gmail.com
