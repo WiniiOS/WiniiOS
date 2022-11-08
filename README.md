@@ -4,7 +4,7 @@
 **garaa2n/garaa2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Je bosses actuellement avec Flutter / Ionic / ReactNative / Javascript ES7 / React JS  / Angular / PHP 5+ / NodeJS / MySQL &MongoDB
+- 🔭 Je bosses actuellement avec Node JS et React JS $ ReactNative / Javascript ES7+ / MySQL & MongoDB en particulier
 - 🌱 J'apprends actuellement le développement mobile
 - 👯 Je cherche à collaborer sur une application de carte de crédit virtuelle
 - 👯 J'aimerai aussi bosser sur un projet d'agregateur de solutions de paiement mobile money
