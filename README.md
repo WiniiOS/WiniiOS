@@ -1,10 +1,7 @@
-### Hey Salut 👋
+### Hey Salut je suis 👋 Deveppeur Javascript & Laravel depuis 5 ans
 
-<!--
-**garaa2n/garaa2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-- 🔭 Je bosses actuellement avec Node JS et React JS $ ReactNative / Javascript ES7+ / MySQL & MongoDB en particulier
+- 🔭 Je bosses actuellement avec Laravel Node JS et React JS $ ReactNative / Javascript ES7+ / MySQL & MongoDB en particulier
 - 🌱 J'apprends actuellement le développement mobile
 - 👯 Je cherche à collaborer sur une application de carte de crédit virtuelle
 - 👯 J'aimerai aussi bosser sur un projet d'agregateur de solutions de paiement mobile money
@@ -13,4 +10,25 @@
 - 📫 Comment me contacter : Whatsapp @ +237 658 682 586 / @email :franckndi5@gmail.com
 - 😄 Pseudos: Le statois, 21 Sing, Garaa N, Ordy
 - ⚡ Fait amusant: Business,E-commerce,E-payment,Shoes
+
+### Mes dernieres réalisations 👋
+
+
+- 📫 https://www.ltcgroup.com  °°° Stack : Laravel 9,Translation
+- 📫 https://www.ltcprepaidcard.com  °°° Stack : Laravel 9, Firebase Storage , Translation
+- 📫 https://www.arnauldsimeu.com °°° Stack : Wordpress
+- 📫 https://www.bloosat.ci  °°° Stack : Wordpress
+- 📫 https://www.bloosat.com  °°° Stack : Wordpress
+- 📫 https://payment.bloosat.com  °°° Application web de reabonnement Stack : Paiement CB,Momo et OM,API Ecobank,PHP7
+- 📫 https://payment.bloosat.ci  °°° Application web de reabonnement Stack : Paiement CB,Momo et OM,API Ecobank,PHP7
+- 📫 https://www.ssobloosat.com  °°° Business Support Systeme (BSS) Stack : php7, MVC
+  Facturation,Email automatiques,taches cron ,generation des factures ,gestion des clients et stocks
+  
+- 📫 https://shop.bloosat.com °°° Stack : PHP Natif ,MVC
+- 📫 https://shop.bloosat.com °°° Stack : PHP Natif
+
+## Mon Site personnel
+
+- 📫 https://www.garaan.com
+- 📫 https://digitalxcode.garaan.com
 
