@@ -1,14 +1,14 @@
 ### Hey Salut je suis 👋 Deveppeur Javascript & Laravel depuis 5 ans
 
-- 🔭 Je bosses actuellement avec Laravel Node JS et React JS $ ReactNative / Javascript ES7+ / MySQL & MongoDB en particulier
+- 🔭 Je bosses actuellement avec Laravel9 Node JS et React JS $ ReactNative / Javascript ES7+ / MySQL & MongoDB en particulier
 - 🌱 J'apprends actuellement le développement mobile
 - 👯 Je cherche à collaborer sur une application de carte de crédit virtuelle
 - 👯 J'aimerai aussi bosser sur un projet d'agregateur de solutions de paiement mobile money
-- 🤔  Je recherche des projets & de l'aide pour le graphisme 
+- 🤔 Je recherche des projets & de l'aide pour le graphisme 
 - 💬 Des questions sur le Développement web & mobile ? Sur moi ? Contactez moi par mail ou inbox
-- 📫 Comment me contacter : Whatsapp @ +237 658 682 586 / @email :franckndi5@gmail.com
-- 😄 Pseudos: Le statois, 21 Sing, Garaa N, Ordy
-- ⚡ Fait amusant: Business,E-commerce,E-payment,Shoes
+- 📫 Comment me contacter : Whatsapp: https://wa.me/237658682586 / Email :franckndi5@gmail.com
+- 😄 Pseudos: Winiios / The State
+- ⚡ Passion : Business e-commerce, Tech, Shoes
 
 ### Mes dernieres réalisations 👋
 
