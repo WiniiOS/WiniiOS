@@ -6,7 +6,7 @@
 - 👯 J'aimerai aussi bosser sur un projet d'agregateur de solutions de paiement mobile money
 - 🤔 Je recherche des projets & de l'aide pour le graphisme 
 - 💬 Des questions sur le Développement web & mobile ? Sur moi ? Contactez moi par mail ou inbox
-- 📫 Comment me contacter : Whatsapp: https://wa.me/237658682586 / Email :franckndi5@gmail.com
+- 📫 Comment me contacter : Whatsapp: https://wa.me/237658682586 / Email :franckndi5@gmail.com / NIU : P070015401927A
 - 😄 Pseudos: Winiios / The State
 - ⚡ Passion : Business e-commerce, Tech, Shoes
 
@@ -34,7 +34,6 @@
 - 📫 https://www.bloosat.com  °°° Stack : Wordpress
 
 ## Mon Site personnel
-
 
 - 📫 https://www.garaan.com
 - 📫 https://digitalxcode.garaan.com
