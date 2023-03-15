@@ -1,6 +1,6 @@
 ### 👋 Bienvenue sur mon profil GitHub ! 
 ##  Je suis un développeur passionné avec une expérience solide dans le développement d'applications web.
-#   Mon approche centrée sur l'utilisateur et ma passion pour la résolution de problèmes m'ont aidé à créer des applications conviviales qui ont eu un impact significatif sur les utilisateurs finaux. 💻💪
+##   Mon approche centrée sur l'utilisateur et ma passion pour la résolution de problèmes m'ont aidé à créer des applications conviviales qui ont eu un impact significatif sur les utilisateurs finaux. 💻💪
 
 🚀 Je suis compétent dans plusieurs langages de programmation tels que Javascript, PHP et Typescript, ainsi que dans des frameworks populaires tels que Laravel, Node JS, React et Angular.
 Je suis également expérimenté dans le développement de bases de données, avec une solide compréhension des technologies SQL et NoSQL.🌟
