@@ -7,7 +7,7 @@ Je suis également expérimenté dans le développement de bases de données, av
 
 🤝 Au fil des ans, j'ai travaillé sur divers projets, allant de petites applications Web à des projets d'entreprise à grande échelle. J'ai également travaillé dans des équipes agiles et j'ai une solide expérience de la collaboration avec des développeurs, des concepteurs et des clients pour assurer la livraison de projets de qualité dans les délais impartis. 🙌
 
-🎓 Je suis constamment en train d'apprendre et de me tenir informé des dernières tendances technologiques, et je suis toujours à la recherche de nouvelles opportunités de développement professionnel.👨‍🎓
+🎓 Je suis constamment en train d'apprendre et de me tenir informé des dernières tendances technologiques, et je suis toujours à la recherche de nouvelles opportunités de développement professionnel , des missions et projets.👨‍🎓
 
 💼 Si vous cherchez un développeur passionné et compétent pour rejoindre votre équipe, n'hésitez pas à me contacter pour discuter de la façon dont nous pouvons collaborer pour faire avancer votre entreprise. 📧
 
