@@ -16,7 +16,7 @@ Je suis également expérimenté dans le développement de bases de données, av
 ## Mes dernieres réalisations 👋
 
 # Applications web Laravel
-- 📫 https://www.ltcgroup.com  °°° Stack : Laravel 9,Translation
+- 📫 https://www.ltcgroup.net  °°° Stack : Laravel 9,Translation
 - 📫 https://www.ltcprepaidcard.com  °°° Stack : Laravel 9, Firebase Storage , Translation
 
 # Applications web PHP natif en MVC / Shoppings 
